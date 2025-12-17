@@ -123,10 +123,14 @@ O funcionamento correto da API foi validado através de requisições realizadas
 Funcionalidade (Print),URL do Markdown 
 Criar Aluno
 ![Criar Aluno](docs/imagens/Captura%20de%20tela%202025-12-17%20141855.png)
-Criar Curso,![Criar Curso](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/post_curso.png?raw=true)
-Matricular,![Matricular](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/post_matricula.png?raw=true)
-Listar Cursos/Aluno,![Cursos do Aluno](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/get_aluno_cursos.png?raw=true)
-Listar Alunos/Curso,![Alunos do Curso](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/get_curso_alunos.png?raw=true)
+Criar Curso
+![Criar Curso](docs/imagens/Captura%20de%20tela%202025-12-17%20142041.png)
+Matricular
+![Matricular](docs/imagens/Captura%20de%20tela%202025-12-17%20142216.png)
+Listar Cursos/Aluno
+![Cursos do Aluno](docs/imagens/Captura%20de%20tela%202025-12-17%20142322.png)
+Listar Alunos/Curso
+![Alunos do Curso](docs/imagens/Captura%20de%20tela%202025-12-17%20142423.png)
 
 ## ✅ Conclusão
 
