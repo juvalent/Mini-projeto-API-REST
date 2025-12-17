@@ -114,30 +114,22 @@ A API estará disponível em:
 
 ---
 
-## 🖼️ Prova de Funcionamento (Entregáveis)
+## 🖼️ Prova de Funcionamento 
 
 O funcionamento correto da API foi validado através de requisições realizadas no **Postman**.
 
-### Prints obrigatórios:
 
-Funcionalidade (Print),URL do Markdown 
+
+Funcionalidade (Prints)
 Criar Aluno
 ![Criar Aluno](docs/imagens/Captura%20de%20tela%202025-12-17%20141855.png)
 Criar Curso
 ![Criar Curso](docs/imagens/Captura%20de%20tela%202025-12-17%20142041.png)
-Matricular
-![Matricular](docs/imagens/Captura%20de%20tela%202025-12-17%20142216.png)
-Listar Cursos/Aluno
+Matrícula
+![Matricula](docs/imagens/Captura%20de%20tela%202025-12-17%20142216.png)
+Listar Cursos/Alunos
 ![Cursos do Aluno](docs/imagens/Captura%20de%20tela%202025-12-17%20142322.png)
-Listar Alunos/Curso
+Listar Alunos/Cursos
 ![Alunos do Curso](docs/imagens/Captura%20de%20tela%202025-12-17%20142423.png)
 
-## ✅ Conclusão
-
-Este projeto consolida, na prática:
-
-* Desenvolvimento de **API REST**
-* Uso correto de **ORM com Sequelize**
-* Modelagem de **relacionamento Muitos-para-Muitos**
-* Organização de código seguindo boas práticas de backend
 
