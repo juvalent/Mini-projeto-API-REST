@@ -116,17 +116,16 @@ A API estará disponível em:
 
 ## 🖼️ Prova de Funcionamento (Entregáveis)
 
-O funcionamento correto da API foi validado através de requisições realizadas no **Insomnia**.
+O funcionamento correto da API foi validado através de requisições realizadas no **Postman**.
 
 ### Prints obrigatórios:
 
-* ✔️ Criação de Aluno (`POST /alunos`)
-* ✔️ Criação de Curso (`POST /cursos`)
-* ✔️ Criação de Matrícula (`POST /matriculas`)
-* ✔️ Consulta de Cursos do Aluno (`GET /alunos/1/cursos`)
-* ✔️ Consulta de Alunos do Curso (`GET /cursos/1/alunos`)
-
----
+Funcionalidade (Print),URL do Markdown 
+Criar Aluno,![Criar Aluno](doc/imagem/Captura de tela 2025-12-17 141855.png)
+Criar Curso,![Criar Curso](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/post_curso.png?raw=true)
+Matricular,![Matricular](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/post_matricula.png?raw=true)
+Listar Cursos/Aluno,![Cursos do Aluno](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/get_aluno_cursos.png?raw=true)
+Listar Alunos/Curso,![Alunos do Curso](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/get_curso_alunos.png?raw=true)
 
 ## ✅ Conclusão
 
