@@ -121,7 +121,8 @@ O funcionamento correto da API foi validado através de requisições realizadas
 ### Prints obrigatórios:
 
 Funcionalidade (Print),URL do Markdown 
-Criar Aluno,![Criar Aluno](doc/imagens/Captura de tela 2025-12-17 141855.png)
+Criar Aluno
+![Criar Aluno](docs/imagens/Captura%20de%20tela%202025-12-17%20141855.png)
 Criar Curso,![Criar Curso](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/post_curso.png?raw=true)
 Matricular,![Matricular](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/post_matricula.png?raw=true)
 Listar Cursos/Aluno,![Cursos do Aluno](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO/blob/main/get_aluno_cursos.png?raw=true)
